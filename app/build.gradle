@@ -33,5 +33,5 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'sd_rr.App'
+    mainClass = 'sd_rr.main'
 }
